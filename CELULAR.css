@@ -86,7 +86,7 @@ body {
     position: absolute;
     left: 10ch;
     top:20vh;
-    height: 60vh;
+    height: 62vh;
     width: 40%;
     background-color: #14f195;
     border-radius: 10px;
@@ -96,6 +96,7 @@ body {
 .info-1 .box-info h3{
     margin: 10px;
     text-align: justify;
+    
 }
 
 
@@ -134,7 +135,7 @@ body {
     position: absolute;
     right: 10ch;
     top:20vh;
-    height: 60vh;
+    height: 62vh;
     width: 40%;
     background-color: #14f195;
     border-radius: 10px;
@@ -147,7 +148,7 @@ body {
 }
 
 
-.info-2 img{
+.info-2 .principal-img {
         position: absolute;
         width: 45%;
         right: 50%; 
@@ -193,7 +194,7 @@ body {
 }
 
 
-.info-3 img{
+.info-3 .principal-img {
         position: absolute;
         width: 45%;
         left: 50%; 
@@ -238,7 +239,7 @@ body {
 }
 
 
-.info-4 img{
+.info-4 .principal-img {
         position: absolute;
         width: 45%;
         right: 50%; 
@@ -283,7 +284,7 @@ body {
 }
 
 
-.info-5 img{
+.info-5 .principal-img {
         position: absolute;
         width: 45%;
         left: 50%; 
@@ -328,7 +329,7 @@ body {
 }
 
 
-.info-6 img {
+.info-6 .principal-img {
     position: absolute;
     width: 45%;
     right: 50%;
