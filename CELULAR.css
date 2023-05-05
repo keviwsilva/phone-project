@@ -335,3 +335,124 @@ body {
     top: 20px;
 
 }
+
+.button-up{
+    
+    position: absolute;
+    right: 20px;
+    bottom: 55px;
+    background-color: #fff;
+    display: block;
+    width: 50px;
+    height: 37px;
+    border-radius: 5px;
+}
+
+.button-up #line-1{
+    position: absolute;
+    top: 17px;
+    left: 3px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 26px;
+    border-radius: 10px;
+    rotate: 330deg;
+    display: block;
+}
+
+.button-up #line-2{
+    position: absolute;
+    top: 17px;
+    right: 2px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 26px;
+    border-radius: 10px;
+    rotate: 210deg;
+    display: block;
+}
+
+.button-down{
+    
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+    background-color: #fff;
+    display: block;
+    width: 50px;
+    height: 37px;
+    border-radius: 5px;
+}
+
+.button-down #line-1{
+    position: absolute;
+    top: 17px;
+    left: 3px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 26px;
+    border-radius: 10px;
+    rotate: 207deg;
+    display: block;
+}
+
+.button-down #line-2{
+    position: absolute;
+    top: 17px;
+    right: 2px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 26px;
+    border-radius: 10px;
+    rotate: 150deg;
+    display: block;
+}
+
+
+.button-first{
+    
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+    background-color: #fff;
+    display: block;
+    width: 50px;
+    height: 37px;
+    border-radius: 5px;
+}
+
+.button-first #line-1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 17px;
+    border-radius: 10px;
+    rotate: 330deg;
+    display: block;
+}
+
+.button-first #line-2{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 17px;
+    border-radius: 10px;
+    rotate: 210deg;
+    display: block;
+}
+
+.button-first #line-3{
+    position: absolute;
+    top: 17px;
+    right: 12px;
+    background-color: rgb(177, 160, 138);
+    height: 5px;
+    width: 26px;
+    border-radius: 10px;
+    rotate: 270deg;
+    display: block;
+}
