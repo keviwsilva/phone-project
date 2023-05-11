@@ -60,6 +60,15 @@ body {
     top: 300px;
 }
 
+.title h2 {
+    position: absolute;
+    color: white;
+    font-family: gothamlight;
+    font-size: 30px;
+    left: 18%;
+    top: 450px;
+}
+
 .info-1{
     
     position: relative;
@@ -72,6 +81,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-1 #title-info h1{
@@ -93,8 +103,8 @@ body {
     box-shadow:  8px 10px 10px 5px #1c5f43d0;
 }
 
-.info-1 .box-info h3{
-    margin: 10px;
+ .box-info h3{
+    margin: 20px;
     text-align: justify;
     
 }
@@ -102,9 +112,9 @@ body {
 
 .info-1 img{
         position: absolute;
-        width: 45%;
-        left: 50%; 
-        top: 20px;
+        width: 30%;
+        left: 58%; 
+        top: 200px;
         
 }
 
@@ -121,6 +131,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-2 #title-info h1{
@@ -141,11 +152,11 @@ body {
     border-radius: 10px;
     box-shadow:  8px 10px 10px 5px #1c5f43d0;
 }
-
+/* 
 .info-2 .box-info h3{
     margin: 10px;
     text-align: justify;
-}
+} */
 
 
 .info-2 .principal-img {
@@ -167,6 +178,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-3 #title-info h1{
@@ -188,10 +200,10 @@ body {
     box-shadow:  8px 10px 10px 5px #1c5f43d0;
 }
 
-.info-3 .box-info h3{
+/* .info-3 .box-info h3{
     margin: 10px;
     text-align: justify;
-}
+} */
 
 
 .info-3 .principal-img {
@@ -212,6 +224,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-4 #title-info h1{
@@ -233,10 +246,10 @@ body {
     box-shadow:  8px 10px 10px 5px #1c5f43d0;
 }
 
-.info-4 .box-info h3{
+/* .info-4 .box-info h3{
     margin: 10px;
     text-align: justify;
-}
+} */
 
 
 .info-4 .principal-img {
@@ -257,6 +270,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-5 #title-info h1{
@@ -278,10 +292,10 @@ body {
     box-shadow:  8px 10px 10px 5px #1c5f43d0;
 }
 
-.info-5 .box-info h3{
+/* .info-5 .box-info h3{
     margin: 10px;
     text-align: justify;
-}
+} */
 
 
 .info-5 .principal-img {
@@ -302,6 +316,7 @@ body {
     position: relative;
     top: 55px;
     color: white;
+    font-family: gothambold;
 }
 
 .info-6 #title-info h1 {
@@ -321,11 +336,6 @@ body {
     background-color: #14f195;
     border-radius: 10px;
     box-shadow: 8px 10px 10px 5px #1c5f43d0;
-}
-
-.info-6 .box-info h3 {
-    margin: 10px;
-    text-align: justify;
 }
 
 
